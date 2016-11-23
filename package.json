@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
     "node-sass": "^3.13.0",
     "node-sass-magic-importer": "^2.1.2",
     "react": "^15.4.1",
