@@ -1,0 +1,22 @@
+{
+  "name": "host-file-editor",
+  "version": "0.0.0",
+  "description": "Quick utility to make editing host files easy... er",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build:css": "node-sass src/style.scss dest/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^3.13.0",
+    "node-sass-magic-importer": "^2.1.2",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  }
+}
