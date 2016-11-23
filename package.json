@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "build:css": "node-sass src/style.scss dest/style.css"
+    "build:css": "node-sass src/style.scss dest/style.css",
+    "build:jsx": "",
+    "server": "http-server &"
   },
   "author": "",
   "license": "ISC",
